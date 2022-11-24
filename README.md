@@ -2,6 +2,7 @@
 
 <div align="center">
   <h3>My name is Luciano Muniz, I'm a Software Engineer and passionate about technology.</h3>
+  <h3>Welcome to my repository!</h3>
 </div>
 
 <div align="center">
